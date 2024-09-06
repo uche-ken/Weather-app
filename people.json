@@ -1,0 +1,22 @@
+[
+    {
+        "name": "uche",
+        "age": 30,
+        "isEmployed": true
+    },
+    {
+      "name": "udo",
+      "age": 30,
+      "isEmployed" :false
+    },
+    {
+        "name": "lucy",
+      "age": 31,
+      "isEmployed" :true
+    },
+    {
+        "name": "kaka",
+      "age": 33,
+      "isEmployed" :false
+    }
+]
